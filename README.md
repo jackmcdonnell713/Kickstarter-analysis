@@ -10,7 +10,7 @@ The purpose of this project was to introduce us to, and then execute an intermed
 Utilizing our knowledge of pivot tables and filters we constructed a new sheet off the original data pool give nto us titled Theatre Outcomes by Launch Date where in we compressed the data into an efficiently legible and navigable pivot table that helped interpret what goal outcomes looked like depending of the time of year the campaign would launch but only for campaigns attempting to fund some sort of theatrical play.  From that table we created a chart with vibrant and clear traits to really seal the deal in terms of visualizing the data which is extremely important for potential clients who may or may not be comfortable looknig at raw data but would rather see a basic chart to help understand the trends being represented.  Said chart can be viewed here.
 
 
-![OutcomesvsLaunchChart](resources.zip/Theatre_Outcomes_vs_Launch.png)
+![OutcomesvsLaunchChart](resources/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
