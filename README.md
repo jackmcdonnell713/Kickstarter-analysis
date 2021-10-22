@@ -24,6 +24,8 @@ The only challenge I encountered for the Outcomes against launch period workshee
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+
 As the season reached late spring and into summer there was a noticeable increase in the amount of campaigns being created which leads me to believe that the funding of plays and theatre productions are carried out in the summer in anticipation of an autumnal theatre season of sorts as funding a play on within weeks of it being performed seems illogical.  Another conclusion I noticed was this same period of time from roughly May to August also had the highest discrepency between success and failure with success nearly doubling every month so it seems that that may be another correlating factor in creating summer campaigns in that people are more likely to donate to your cause as the weather improves. 
 - What can you conclude about the Outcomes based on Goals?
 
