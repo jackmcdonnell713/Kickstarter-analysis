@@ -13,6 +13,10 @@ Utilizing our knowledge of pivot tables and filters we constructed a new sheet o
 ![OutcomesvsLaunchChart](resources/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+For this sheet within the main excel project we used the same skillsets as before while putting a greater emphasis on the complex functions you can input into excel to optimize how the data is entered and represented.  For instance I would say for this sheet, being able to properly execute the COUNTIFS function was crucial to the success of the assignment as one can see when they look at our columns labeled, projects: successful, canceled, and failed.  Being able to immediately count all data cells in an especially large data set can optimize specific criteria to be seen and analyzed in a heartbeat.  Then with simple sum functions we are able to create a sense of totality for that specific data variable which in this case happened to be the total number of projects for each goal status.  The other functions utilized a knowledge of basic math and how such equations are represented in excel to calculate percentages which in a scenario of presentation, is an extremely digestible and accesible way to present numbers to pretty much anyone in the working world as well as being a good indicator set for the chart we subsequently created which compared the % of successful, failed, and cenceled projects vs. the total amount of money that was preset as the goal of the campaign.  This graph can then easily distinguish which monetary goal points had which % of success and failure etc.  The afforementioned chart can be viewed here.
+
+
+![OutcomesBasedonGoalschart](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
