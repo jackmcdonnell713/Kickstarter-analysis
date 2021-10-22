@@ -19,11 +19,12 @@ For this sheet within the main excel project we used the same skillsets as befor
 ![OutcomesBasedonGoalschart](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+The only challenge I encountered for the Outcomes against launch period worksheet was being able to navigate and utilize the filters allocated to the pivot charts, which in the end was not entirely challenging but more rewarding as that process was very intuitive.  The Outcomes against goal amount chart however saw an increased level of difficulty from my perspective as being able to properly input the correct syntax for the COUNTIFS functions consumed much of my time for the project as a whole but, like I mentioned earlier, felt really rewarding after I succeeded in inputting it correctly as it felt complex and puzzle-like and created a wonderfully optimizing effect on the data being represented.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+As the season reached late spring and into summer there was a noticeable increase in the amount of campaigns being created which leads me to believe that the funding of plays and theatre productions are carried out in the summer in anticipation of an autumnal theatre season of sorts as funding a play on within weeks of it being performed seems illogical.  Another conclusion I noticed was this same period of time from roughly May to August also had the highest discrepency between success and failure with success nearly doubling every month so it seems that that may be another correlating factor in creating summer campaigns in that people are more likely to donate to your cause as the weather improves. 
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
